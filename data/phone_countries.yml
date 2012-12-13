@@ -231,6 +231,7 @@
   :char_3_code: CN
   :name: China
   :international_dialing_prefix: "0"
+  :area_code: "[12][0-9]|[3-9][0-99]"
 "960": 
   :country_code: "960"
   :national_dialing_prefix: None
